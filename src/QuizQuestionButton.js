@@ -11,7 +11,7 @@ class QuizQuestionButton extends Component {
                 <button onClick={this.handleClick.bind(this)}>{this.props.button_text}</button>
             </li>
         );
-    }    
+    }
 }
 
 export default QuizQuestionButton;
