@@ -19,7 +19,7 @@ class QuizQuestion extends Component {
               </ul>
             </section>
           </main>            
-        )
+        );
     }
 }
 
